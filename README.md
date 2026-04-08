@@ -52,23 +52,5 @@ The study validates VSOPINN through several representative numerical cases:
 - Multi-condition lid-driven cavity flow
 - Thermal field reconstruction in a casing domain
 
-## What is included in this repository
 
-Depending on the released version of the repository, the codebase may include:
 
-- core VSOPINN model components
-- geometry-adaptive reconstruction modules
-- differentiable soft Voronoi projection modules
-- sensor layout optimization routines
-- case-specific scripts and example data
-- visualization scripts for reconstructed fields and profiles
-
-## Notes
-
-- This repository is intended to accompany our VSOPINN study.
-- The manuscript is currently under review, so this README focuses on the method and code rather than a formal citation block.
-- If figure paths differ in your repository, simply update the image paths in this README accordingly.
-
-## Contact
-
-For questions regarding the code or the associated study, please contact the repository maintainers through GitHub.
