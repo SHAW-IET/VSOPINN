@@ -23,7 +23,7 @@ The main ideas of this repository include:
 VSOPINN improves the reconstruction of the velocity field and yields lower local errors than baseline models in the benchmark lid-driven cavity case.
 
 <p align="center">
-  <img src="case1.jpg" width="900" alt="Lid-driven cavity flow results"/>
+  <img src="figures/case1.jpg" width="900" alt="Lid-driven cavity flow results"/>
 </p>
 
 ### Multi-condition lid-driven cavity flow
@@ -31,7 +31,7 @@ VSOPINN improves the reconstruction of the velocity field and yields lower local
 The learned layout generalizes to both interpolation and extrapolation regimes, providing more accurate reconstructions than the random layout under multiple Reynolds numbers.
 
 <p align="center">
-  <img src="case4_multi.jpg" width="900" alt="Multi-condition cavity flow results"/>
+  <img src="figures/case4_multi.jpg" width="900" alt="Multi-condition cavity flow results"/>
 </p>
 
 ### Thermal field reconstruction in a casing domain
@@ -39,7 +39,7 @@ The learned layout generalizes to both interpolation and extrapolation regimes, 
 The framework also extends beyond Navier--Stokes flow reconstruction and can be applied to scalar thermal-field reconstruction in complex engineering geometries.
 
 <p align="center">
-  <img src="case5_T.jpg" width="900" alt="Thermal casing reconstruction results"/>
+  <img src="figures/case5_T.jpg" width="900" alt="Thermal casing reconstruction results"/>
 </p>
 
 ## Benchmarks covered in this work
