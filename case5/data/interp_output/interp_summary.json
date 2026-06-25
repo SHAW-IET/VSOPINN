@@ -1,0 +1,13 @@
+{
+  "full_field_csv": "D:\\Major\\PyCharm\\Py_Projects\\wkDir\\PhyCavity\\CavityManual_rev4_Voronoi_sensorOptim\\case5_caseT\\data\\prep_output\\full_field_truth.csv",
+  "structured_mesh_npz": "D:\\Major\\PyCharm\\Py_Projects\\wkDir\\PhyCavity\\CavityManual_rev4_Voronoi_sensorOptim\\case5_caseT\\data\\mesh_output_v2\\structured_mesh_v2.npz",
+  "grid_shape": [
+    41,
+    123
+  ],
+  "temperature_min_C": 349.676172,
+  "temperature_max_C": 759.7914509467357,
+  "linear_nan_count_before_fill": 3,
+  "filled_by_nearest_count": 3,
+  "final_nan_count": 0
+}

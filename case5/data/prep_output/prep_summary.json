@@ -1,0 +1,38 @@
+{
+  "full_field_node_count": 3919,
+  "boundary_point_count": 1316,
+  "edge_counts": {
+    "Bottom": 598,
+    "Right": 150,
+    "Top": 509,
+    "Left": 63
+  },
+  "corner_points": {
+    "bottom_left": {
+      "boundary_local_id": 676,
+      "X_m": 0.0,
+      "Y_m": 0.0020230119999999,
+      "node_id": 2790
+    },
+    "bottom_right": {
+      "boundary_local_id": 1165,
+      "X_m": 0.196949,
+      "Y_m": 0.028348014,
+      "node_id": 3669
+    },
+    "top_right": {
+      "boundary_local_id": 1092,
+      "X_m": 0.17848634,
+      "Y_m": 0.06684202,
+      "node_id": 3519
+    },
+    "top_left": {
+      "boundary_local_id": 894,
+      "X_m": 0.0093550600000007,
+      "Y_m": 0.010382012,
+      "node_id": 3168
+    }
+  },
+  "graph_radius": 0.0005161197737577473,
+  "median_nearest_neighbor_distance": 0.000491542641674045
+}
